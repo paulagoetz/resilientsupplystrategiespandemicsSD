@@ -1,1 +1,1 @@
-Model files, python files and data to support the results of this paper. In the folder Phython files you can find the supporting pyhton workbooks. The folder data contains the data packages used for the different python workbooks.
+Model files, python files and data to support the results of the to be published paper: "Resilient Supply Strategies: An exploratory system dynamics approach". In the folder Phython files you can find the supporting pyhton workbooks. The folder data contains the data packages used for the different python workbooks.
